@@ -18,11 +18,9 @@ Smart backpack for your health!.  Attach QKbackpack KIT with your backpack, down
   + Board: Arduino Nano.
   + Sensors: UV (ML8511), Co2 (MQ135), Temperature (DHT11), Humidity (DHT11), Vibration.
   + Modules: RFID (MC522), Bluetooth (HC-05), Piezo alarm.
-  <p align="center"><img src="/readme/topdown.jpg" width="300px"/></p>
-   <p align="center"><img src="/readme/side.jpg" width="300px"/></p>
-    <p align="center"><img src="/readme/sensorsblock.jpg" width="300px"/></p>
+  <p align="center"><img src="/readme/qkkit.png" width="700px"/></p>
     
-### QKApp
+### QKBackpack App
   + An Android mobile application, two modes of using app:
     - Paired:
       - Receive data from sensors, attach location taken from gps and time. Then send to the server through the internet if you are in danger.
@@ -36,6 +34,9 @@ Smart backpack for your health!.  Attach QKbackpack KIT with your backpack, down
   + Show UV intensity, Co2 intensity on map 60 minutes ago.
   + On/Off security mode.
   + On/Off alert mode.
+  <p align="center"><img src="/readme/qkapp0.png" width="700px"/></p>
+   <p align="center"><img src="/readme/qkapp1.png" width="700px"/></p>
+    <p align="center"><img src="/readme/qkapp2.png" width="700px"/></p>
 <p align="center"><img src="/readme/app.png" width="700px"/></p>
 
 ## How it works
